@@ -3,7 +3,8 @@ author: rbonicel
 email: 48990813+rbonicel@users.noreply.github.com
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
-  Robin Bonicel webpage, cursus, projects and more...
+  Robin Bonicel webpage, cursus, projects and more
+  Still working on changes
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
